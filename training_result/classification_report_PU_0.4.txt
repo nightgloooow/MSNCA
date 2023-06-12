@@ -1,0 +1,32 @@
+25.395795702934265 Test loss (%)
+99.98441338539124 Test accuracy (%)
+
+99.97934873048169 Kappa accuracy (%)
+99.98441517961506 Overall accuracy (%)
+99.96230252996641 Average accuracy (%)
+
+                      precision    recall  f1-score   support
+
+             Asphalt       1.00      1.00      1.00      3979
+             Meadows       1.00      1.00      1.00     11190
+              Gravel       1.00      1.00      1.00      1259
+               Trees       1.00      1.00      1.00      1838
+Painted metal sheets       1.00      1.00      1.00       807
+           Bare Soil       1.00      1.00      1.00      3018
+             Bitumen       1.00      1.00      1.00       798
+Self-Blocking Bricks       1.00      1.00      1.00      2209
+             Shadows       1.00      1.00      1.00       568
+
+            accuracy                           1.00     25666
+           macro avg       1.00      1.00      1.00     25666
+        weighted avg       1.00      1.00      1.00     25666
+
+[[ 3979     0     0     0     0     0     0     0     0]
+ [    0 11190     0     0     0     0     0     0     0]
+ [    0     0  1259     0     0     0     0     0     0]
+ [    0     0     0  1835     0     0     0     3     0]
+ [    0     0     0     0   807     0     0     0     0]
+ [    0     0     0     0     0  3018     0     0     0]
+ [    0     0     0     0     0     0   798     0     0]
+ [    0     0     0     0     0     0     0  2209     0]
+ [    0     0     0     0     0     0     1     0   567]]
