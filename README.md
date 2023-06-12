@@ -45,7 +45,6 @@ Fig. 2. Visual classification results on the Indian Pines. (a) False color image
 
 ## Acknowledgement
 https://github.com/gokriznastic/HybridSN  
-https://github.com/menon92/WaveletCNN
 https://github.com/tanmay-ty/SpectralNET
 
 ## License
